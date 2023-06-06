@@ -1,1 +1,1 @@
-# nfty_blips
+Custom Blip for Fivem servers
